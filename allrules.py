@@ -13,9 +13,9 @@ import logging.handlers
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 
-server = "https://10.56.140.9"
-username = "api"
-password = "apiapiapi"
+server = ""
+username = ""
+password = ""
 
 #if len(sys.argv) > 1:
 #    username = sys.argv[1]
