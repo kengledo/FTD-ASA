@@ -2,12 +2,12 @@ import json
 import sys
 import requests
 
-server = "https://10.56.140.9"
+server = ""
 
-username = "api"
+username = ""
 if len(sys.argv) > 1:
     username = sys.argv[1]
-password = "apiapiapi"
+password = ""
 if len(sys.argv) > 2:
     password = sys.argv[2]
 
