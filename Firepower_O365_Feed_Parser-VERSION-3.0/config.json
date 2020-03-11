@@ -1,0 +1,14 @@
+{
+    "FMC_IP": "172.16.173.51",
+    "FMC_USER": "o365api",
+    "FMC_PASS": "C1sc0123",
+    "IP_UUID": "001E670F-8A0C-0ed3-0000-017179870678",
+    "URL_UUID": "001E670F-8A0C-0ed3-0000-017179870696",
+    "SERVICE": false,
+    "SSL_VERIFY": false,
+    "SSL_CERT": "/path/to/certificate",
+    "AUTO_DEPLOY": false,
+    "VERSION": 2019082800,
+    "WEBEX_ACCESS_TOKEN": "",
+    "WEBEX_ROOM_ID": ""
+}
